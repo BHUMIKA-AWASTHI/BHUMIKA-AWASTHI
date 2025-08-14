@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Bhumika Awasthi!<br>👩‍💻 Third-year B.Tech CSE student passionate about building impactful web applications<br> 🕸️Exploring FULL STACK WEB DEVELOPMENT<br>🧩 Currently learning Data Structures & Algorithms (DSA) to enhance problem-solving skills<br>💻 Always learning, building, and sharing my journey in tech!<br><br>🔗 Let’s connect and collaborate on exciting projects! 🚀
+👋 Hi, I'm Bhumika Awasthi!<br>👩‍💻 Final year B.Tech CSE student passionate about building impactful web applications<br> 🕸️Exploring FULL STACK WEB DEVELOPMENT<br>🧩 Currently learning Data Structures & Algorithms (DSA) to enhance problem-solving skills<br>💻 Always learning, building, and sharing my journey in tech!<br><br>🔗 Let’s connect and collaborate on exciting projects! 🚀
 
 
 ## 🌐 Socials:
